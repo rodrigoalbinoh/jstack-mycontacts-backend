@@ -1,0 +1,15 @@
+{
+  "name": "mycontacts",
+  "version": "1.0.0",
+  "description": "API to store contacts",
+  "author": {
+    "name": "Rodrigo A Hammes",
+    "email": "oi@rodrigoalbino.dev",
+    "url": "https://rodrigohammes.com"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
